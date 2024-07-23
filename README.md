@@ -4,7 +4,7 @@
 
 With over 20 years of experience in software development, I specialize in building resilient, scalable applications using .NET Core and cloud technologies. My expertise spans across banking, AdTech, and insurance sectors, with a strong focus on delivering high-quality solutions on time and within budget.
 
-📍 Munich, Germany | 📧 nerdem@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/neslihko)
+📍 Munich, Germany | 📧 nerdem@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/neslihko) | 🔗 [Medium](https://medium.com/@neslihanerdem)
 
 ### 🚀 Professional Summary
 

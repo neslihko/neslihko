@@ -2,7 +2,7 @@
 
 ## 💻 Senior Software Developer | .NET | React | Azure | Resilient Cloud Applications
 
-With over 20 years of experience in software development, I specialize in building resilient, scalable applications using .NET Core and cloud technologies. I’ve contributed to major projects in banking, AdTech, and insurance, delivering high-quality solutions with a strong focus on performance, maintainability, and innovation.
+With over 18 years of experience in software development, I specialize in building resilient, scalable applications using .NET Core and cloud technologies. I’ve contributed to major projects in banking, AdTech, and insurance, delivering high-quality solutions with a strong focus on performance, maintainability, and innovation.
 
 📍 Munich, Germany  
 📧 nerdem@gmail.com  
@@ -13,7 +13,7 @@ With over 20 years of experience in software development, I specialize in buildi
 
 ### 🚀 Professional Summary
 
-- 20+ years of software engineering experience across banking, AdTech, and insurance sectors
+- 18 years of software engineering experience across banking, AdTech, and insurance sectors
 - Expertise in modernizing legacy systems and designing scalable architectures
 - Tech stack proficiency: **C#, SQL Server, Azure, .NET, React**
 - Strong background in team leadership, global collaboration, and Agile environments

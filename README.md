@@ -60,7 +60,7 @@ With over 20 years of experience in software development, I specialize in buildi
 C#, .NET Core, ASP.NET MVC, Web Forms, WCF, WPF, Entity Framework, LINQ, Node.js
 
 **Frontend:**  
-React, TypeScript, JavaScript, HTML/CSS, Bootstrap, jQuery, SASS/LESS
+React, TypeScript, NextJs,JavaScript, HTML/CSS, Bootstrap, jQuery, SASS/LESS
 
 **Architecture & DevOps:**  
 Azure, Docker, Git/GitHub, Microservices, DDD, CI/CD, REST/SOAP APIs, OAuth

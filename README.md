@@ -1,8 +1,11 @@
 # Neslihan KORKMAZ
 
-## 💻 Senior Software Developer | .NET | React | Azure | Resilient Cloud Applications
+## 💻 Senior Software Developer | Cloud Architectures | .NET & Azure | AI-Supported Engineering Workflows
 
-With over 18 years of experience in software development, I specialize in building resilient, scalable applications using .NET Core and cloud technologies. I’ve contributed to major projects in banking, AdTech, and insurance, delivering high-quality solutions with a strong focus on performance, maintainability, and innovation.
+I’m a lifelong learner who enjoys building meaningful systems and staying hands-on with technology.  
+Alongside my professional growth, I’ve always prioritized personal development — whether it’s reading, exploring new places, or keeping active through sports.
+
+---
 
 📍 Munich, Germany  
 📧 nerdem@gmail.com  
@@ -11,85 +14,78 @@ With over 18 years of experience in software development, I specialize in buildi
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 What I Do
 
-- 18 years of software engineering experience across banking, AdTech, and insurance sectors
-- Expertise in modernizing legacy systems and designing scalable architectures
-- Tech stack proficiency: **C#, SQL Server, Azure, .NET, React**
-- Strong background in team leadership, global collaboration, and Agile environments
-- Actively expanding skillset with hands-on training in **Cloud, DevOps, Docker, and Agile methodologies**
-
----
-
-### 💼 Work Experience
-
-**Senior Backend Developer (Freelance)** | *SiPay – Payment Gateway, Istanbul*  
-🗓 08/2023 – Ongoing  
-- Consulting and supporting the modernization of a payment platform
-
-**Senior Software Developer** | *New Direction, Augsburg, Germany*  
-🗓 03/2021 – 05/2023  
-- Migrated monolithic ASP project to .NET 6 with React/Redux  
-- Doubled portal performance using modern .NET techniques  
-- Optimized SQL Server, saving ~$10,000/year
-
-**Senior Software Team Leader** | *Denizbank Intertech, Istanbul*  
-🗓 03/2010 – 10/2018  
-- Delivered fintech solutions for 10+ international banks (incl. HSBC, Rabobank)  
-- Focused on core banking, treasury, insurance, and digital banking platforms
-
-**Senior Software Engineer** | *Zurich Insurance, Istanbul*  
-🗓 04/2008 – 03/2010  
-- Led architecture of insurance portal  
-- Integrated Redis caching, boosting performance by 35%
-
-**Software Engineer** | *Veripark, Istanbul*  
-🗓 07/2005 – 04/2008  
-- Developed B2B/B2C portals, including a supplier system for a €3.7B manufacturer
-
-**Software Developer** | *Dogan Media Group, Istanbul*  
-🗓 02/2002 – 06/2005  
-- Built high-traffic news portals with 10M daily users  
-- Contributed to AdTech infrastructure processing 400M daily impressions
+- Build scalable backend systems using **C#, .NET, Azure**, and **React**
+- Migrate and modernize legacy platforms for speed, stability, and security
+- Lead engineering teams through complex transformations  
+- Build and contribute to open-source projects that solve real-world developer problems  
+- Explore AI-based tools to simulate real interview scenarios and hands-on developer workflows  
 
 ---
 
-### 🛠 Core Skills
+### 🛠️ Core Skills
 
-**Backend:**  
-C#, .NET Core, ASP.NET MVC, Web Forms, WCF, WPF, Entity Framework, LINQ, Node.js
+**Languages & Frameworks:**  
+C#, .NET (Core & Framework), ASP.NET, React, TypeScript, JavaScript, Node.js
 
-**Frontend:**  
-React, TypeScript, NextJs,JavaScript, HTML/CSS, Bootstrap, jQuery, SASS/LESS
+**Cloud & DevOps:**  
+Azure, Docker, GitHub, CI/CD, Microservices, API Design, Redis, RabbitMQ
 
-**Architecture & DevOps:**  
-Azure, Docker, Git/GitHub, Microservices, DDD, CI/CD, REST/SOAP APIs, OAuth
+**Databases:**  
+SQL Server, Oracle, MongoDB, Query Tuning
 
-**Database & Messaging:**  
-SQL Server, Oracle, MongoDB, Redis, RabbitMQ, Query Optimization
+**Architecture & Testing:**  
+DDD, Clean Architecture, TDD, xUnit, NUnit, Moq, System Design
 
-**Testing:**  
-TDD, Unit Testing (NUnit, xUnit, Moq), API Testing
+**Agile & Collaboration:**  
+Scrum (PSM I & PSPO I), Jira, Remote Teams, Stakeholder Management
 
-**Agile & Leadership:**  
-Team Leading, Scrum, Jira, Confluence, Stakeholder Communication
+---
+
+### 💼 Recent Work
+
+**Senior Backend Developer (Freelance)**  
+*SiPay – Payment Platform* | 08/2023 – Present  
+• Supporting backend modernization and platform scalability  
+
+**Senior Software Developer**  
+*New Direction, Germany* | 03/2021 – 05/2023  
+• Migrated ASP monolith to .NET 6 + React  
+• Cut infrastructure costs and improved maintainability  
+
+**Senior Software Team Leader**  
+*Intertech, Istanbul* | 03/2010 – 10/2018  
+• Led implementation for 10+ international banks  
+• Delivered fintech products across treasury, insurance, and digital banking  
+
+**More roles on LinkedIn →** [Profile](https://linkedin.com/in/neslihko)
 
 ---
 
 ### 🎓 Education & Certifications
 
-- 🎓 **Associate Degree in Computer Programming** – Sakarya University, Turkey  
-- 📜 **Professional Scrum Master™ I (PSM I)** – Scrum.org, 2024  
-- 📜 **Professional Scrum Product Owner™ I (PSPO I)** – Scrum.org  
-- 📚 **Backend Development for Cloud Solutions** – velpTEC edutainment, 2023–2024  
+- **Computer Programming** – Sakarya University  
+- **PSM I & PSPO I Certified** – Scrum.org  
+- **Cloud Backend Engineering Program** – velpTEC, 2023–2024  
 
 ---
 
-### 🌐 Languages
+### 🌱 Current Learning Focus
 
-- 🇬🇧 English – Professional Working Proficiency  
-- 🇩🇪 German – Intermediate  
-- 🇹🇷 Turkish – Native
+- Advanced C#  
+- Azure Architecture & Resilience  
+- Docker in production workflows  
+- DevOps foundations  
+- AI-enhanced developer experience tools
+
+---
+
+### 🌍 Languages
+
+🇹🇷 Turkish — Native  
+🇬🇧 English — Professional  
+🇩🇪 German — Verhandlungssicher   
 
 ---
 
@@ -99,11 +95,14 @@ Team Leading, Scrum, Jira, Confluence, Stakeholder Communication
 
 ---
 
-### 📫 Let’s Connect!
+### 🤝 Let’s Connect
 
-Feel free to reach out for collaboration, mentorship, or simply to talk tech!  
-🔗 [LinkedIn](https://linkedin.com/in/neslihko) | ✉️ nerdem@gmail.com
+Open to collaboration, knowledge-sharing, and meaningful conversations.  
+Reach out if you're building something exciting — or just want to talk tech.
+
+🔗 [LinkedIn](https://linkedin.com/in/neslihko)  
+✉️ nerdem@gmail.com
 
 ---
 
-> 💡 *"Building resilient cloud applications isn't just about writing code — it's about creating digital fortresses capable of withstanding the unpredictability of the digital world."*
+> 💡 *"Resilient systems are not just coded — they’re designed with care, tested with discipline, and shaped by real-world lessons."*

@@ -1,108 +1,77 @@
-# Neslihan KORKMAZ
+# Neslihan Korkmaz
 
-## 💻 Senior Software Developer | Cloud Architectures | .NET & Azure | AI-Supported Engineering Workflows
+### AI Engineer · Senior Backend Engineer · Founder of [TalentVP](https://talentvp.com)
 
-I’m a lifelong learner who enjoys building meaningful systems and staying hands-on with technology.  
-Alongside my professional growth, I’ve always prioritized personal development — whether it’s reading, exploring new places, or keeping active through sports.
+I build production LLM products, and I bring 20+ years of backend engineering from banking, payments and adtech with me.
+My focus: AI features that are **grounded, measurable and affordable** — evals before prompts ship, guards after the model, cost per call treated as a first-class metric.
 
----
-
-📍 Munich, Germany  
-📧 nerdem@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/neslihko)  
-🔗 [Medium](https://medium.com/@neslihanerdem)
+📍 Munich, Germany · 🔗 [LinkedIn](https://linkedin.com/in/neslihko) · ✍️ [Medium](https://medium.com/@neslihanerdem) · ✉️ nerdem@gmail.com
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I'm building
 
-- Build scalable backend systems using **C#, .NET, Azure**, and **React**
-- Migrate and modernize legacy platforms for speed, stability, and security
-- Lead engineering teams through complex transformations  
-- Build and contribute to open-source projects that solve real-world developer problems  
-- Explore AI-based tools to simulate real interview scenarios and hands-on developer workflows  
+**[TalentVP](https://talentvp.com)** — AI career platform for international professionals in the DACH job market *(founder, solo engineer · 2025 – present)*
+- CV analysis, job-specific CV tailoring, cover letters, mock interviews with STAR feedback, job tracking — in English, German and Turkish
+- **Grounding & guard stack:** every AI write goes through one choke point; output guards reject corrupted rewrites, a fabrication check traces every claim back to the source CV
+- **Eval harness** with fixture personas — no prompt change ships without measurement
+- **Cost engineering:** GPT-4 → GPT-4o-mini across all routes (95–98% cheaper, quality proven by evals); input diet cut tokens per call by 96%; hash cache, repair-not-regenerate
+- **TalentVP Copilot** — Chrome extension (live in the Chrome Web Store) that scores CV-to-job fit next to job ads on LinkedIn, StepStone and career pages
+- Stack: Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · Stripe · OpenAI & Anthropic APIs · Playwright · Docker on a Munich VPS
 
----
+**Yenibiris V2** — Turkish job platform with AI matching, ATS, CV tools and credit billing *(architect)*
+- Feature-based architecture, engineering runbooks and 12 PRDs; AI-assisted delivery with a clear architect/builder split
 
-### 🛠️ Core Skills
+**[ikigh.ai](https://ikigh.ai)** — free ikigai discovery tool; privacy-first by design (no data collection), companion funnel to TalentVP
 
-**Languages & Frameworks:**  
-C#, .NET (Core & Framework), ASP.NET, React, TypeScript, JavaScript, Node.js
-
-**Cloud & DevOps:**  
-Azure, Docker, GitHub, CI/CD, Microservices, API Design, Redis, RabbitMQ
-
-**Databases:**  
-SQL Server, Oracle, MongoDB, Query Tuning
-
-**Architecture & Testing:**  
-DDD, Clean Architecture, TDD, xUnit, NUnit, Moq, System Design
-
-**Agile & Collaboration:**  
-Scrum (PSM I & PSPO I), Jira, Remote Teams, Stakeholder Management
+**Babalar** — RAG-based WhatsApp community assistant for Turkish expats in Munich
 
 ---
 
-### 💼 Recent Work
+### 🧠 AI engineering
 
-**Senior Backend Developer (Freelance)**  
-*SiPay – Payment Platform* | 08/2023 – Present  
-• Supporting backend modernization and platform scalability  
+**LLM apps:** RAG, tool calling & agents, structured output, prompt caching, model routing & failover
+**Quality:** eval harnesses, LLM-as-judge, regression gates, output guards, hallucination triage
+**Agents:** Claude Code / agentic workflows with human-in-the-loop — agents prepare, humans approve
+**Responsible AI:** GDPR-aware PII handling, EU hosting, prompt-injection defence
 
-**Senior Software Developer**  
-*New Direction, Germany* | 03/2021 – 05/2023  
-• Migrated ASP monolith to .NET 6 + React  
-• Cut infrastructure costs and improved maintainability  
+### 🛠️ Backend foundation
 
-**Senior Software Team Leader**  
-*Intertech, Istanbul* | 03/2010 – 10/2018  
-• Led implementation for 10+ international banks  
-• Delivered fintech products across treasury, insurance, and digital banking  
-
-**More roles on LinkedIn →** [Profile](https://linkedin.com/in/neslihko)
+**Languages:** C#, .NET (Core & Framework), TypeScript, JavaScript, Python, Node.js
+**Cloud & DevOps:** Azure, Docker, Dokploy, CI/CD, GitHub Actions, Redis, RabbitMQ
+**Data:** PostgreSQL, SQL Server, Oracle, MongoDB, query tuning
+**Architecture:** microservices, API design, DDD, Clean Architecture, TDD (xUnit, NUnit, Vitest, Playwright)
+**Agile:** Scrum — PSM I & PSPO I
 
 ---
 
-### 🎓 Education & Certifications
+### 💼 Experience
 
-- **Computer Programming** – Sakarya University  
-- **PSM I & PSPO I Certified** – Scrum.org  
-- **Cloud Backend Engineering Program** – velpTEC, 2023–2024  
+**Founder & AI Engineer** — *TalentVP, Munich* · 2025 – present
+
+**Senior Backend Developer (Freelance)** — *SiPay, payment platform* · 08/2023 – MM/YYYY
+Backend modernisation and platform scalability
+
+**Senior Software Developer** — *New Direction, Germany* · 03/2021 – 05/2023
+Migrated an ASP monolith to .NET 6 + React; cut infrastructure costs and improved maintainability
+
+**Senior Software Team Leader** — *Intertech, Istanbul* · 03/2010 – 10/2018
+Led implementations for 10+ international banks across treasury, insurance and digital banking
+
+More on [LinkedIn →](https://linkedin.com/in/neslihko)
 
 ---
 
-### 🌱 Current Learning Focus
+### 🎓 Education & certifications
 
-- Advanced C#  
-- Azure Architecture & Resilience  
-- Docker in production workflows  
-- DevOps foundations  
-- AI-enhanced developer experience tools
-
----
+- Computer Programming — Sakarya University
+- PSM I & PSPO I — Scrum.org
+- Cloud Backend Engineering Program — velpTEC, 2023–2024
 
 ### 🌍 Languages
 
-🇹🇷 Turkish — Native  
-🇬🇧 English — Professional  
-🇩🇪 German — Verhandlungssicher   
+🇹🇷 Turkish — native · 🇬🇧 English — professional · 🇩🇪 German — verhandlungssicher
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neslihko&show_icons=true&theme=default)
-
----
-
-### 🤝 Let’s Connect
-
-Open to collaboration, knowledge-sharing, and meaningful conversations.  
-Reach out if you're building something exciting — or just want to talk tech.
-
-🔗 [LinkedIn](https://linkedin.com/in/neslihko)  
-✉️ nerdem@gmail.com
-
----
-
-> 💡 *"Resilient systems are not just coded — they’re designed with care, tested with discipline, and shaped by real-world lessons."*
+> 💡 *"A prompt is a request, not a constraint."* — lesson learned shipping LLM features to real users
